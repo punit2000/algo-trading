@@ -1,0 +1,5 @@
+"""
+tests/regression/.gitkeep
+Regression tests are implemented starting from M3.
+A known dataset must always produce the expected backtest result.
+"""

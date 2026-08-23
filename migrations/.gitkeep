@@ -1,0 +1,4 @@
+# migrations/
+# Alembic database migrations go here.
+# Initialized in M1 when PostgreSQL schema is defined.
+# Run: alembic init migrations  (do NOT run this yet — M1 task)

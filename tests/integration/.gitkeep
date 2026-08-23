@@ -1,0 +1,5 @@
+"""
+tests/integration/.gitkeep
+Integration tests are implemented starting from M1.
+They require live external services (PostgreSQL, Redis).
+"""

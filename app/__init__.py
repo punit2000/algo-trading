@@ -1,0 +1,3 @@
+"""
+algo-trading — Application root.
+"""

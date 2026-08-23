@@ -1,0 +1,4 @@
+# data/
+# Raw market data files go here (CSV, Parquet, etc.)
+# This directory is NOT committed to Git (see .gitignore)
+# Populated in M1 (Market Data milestone)
